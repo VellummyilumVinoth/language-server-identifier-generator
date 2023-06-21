@@ -1,0 +1,1 @@
+# language-server-identifier-generator
