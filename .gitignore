@@ -1,0 +1,4 @@
+# Project exclude paths
+/predictor/target/
+/statement_extractor/target/
+/.idea/
